@@ -115,6 +115,7 @@ GearGrove is an e-commerce platform focused on providing top-tier hiking and spo
 ![Homepage](home.png)
 ![Homepage](home2.png)
 ![Homepage](home3.png)
+![Homepage](footer.png)
 
 ### Product Categories
 ![Product Categories](screenshots/categories.png)
